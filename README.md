@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vishnuthumpudi
-- 👀 I’m interested in devloping apps
-- 🌱 I’m currently learning dart and VueJS
-- 💞️ I’m looking to collaborate on Google Developers Club
-- 📫 How to reach me @Vthumpudi
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning intermediate computer science
+- 💞️ I’m looking to collaborate on a challenging postion at a MNC
+- 📫 How to reach me vishnuthumpudi@gmail.com
 -I am ready for freelancing
 <!---
 vishnuthumpudi/vishnuthumpudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
