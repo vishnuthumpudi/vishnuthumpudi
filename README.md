@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vishnu Thumpudi
 =======================================================================================================================================
 
-Final Year Student in Bioinformatics and Tech Enthusiast 
+Final Year Student in Bioinformatics with a strong knowledge in Java and Tech Enthusiast 
 --------------------------------------
 
 I have been coding since the beginning of my college. I have primarily focused on Web Development and have understanding of various technologies and understood how a tool works.
