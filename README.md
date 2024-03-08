@@ -1,8 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vishnu Thumpudi
+<!--Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vishnu Thumpudi
 =======================================================================================================================================
 
 Final Year Student in Bioinformatics with a strong knowledge in Java and Tech Enthusiast 
---------------------------------------
+-------------------------------------->
 
 <body>
 
