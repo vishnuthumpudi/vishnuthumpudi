@@ -48,15 +48,32 @@ src="https://img.shields.io/github/followers/vishnuthumpudi?logo=github&style=fo
 
 <p align="left"> <a href="https://github.com/vishnuthumpudi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/vishnuthumpudi/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Vthumpudi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/vishnuthumpudi"><img src="https://github-readme-stats.vercel.app/api?username=vishnuthumpudi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vishnu's GitHub stats" /></a>
+<table>
+  <tr>
+  	<td> 
+      <h2>📊 GitHub Stats</h2>
+    </td>
+  	<td>
+      <h2>📊 Leetcode Stats</h2>
+    </td>
+  </tr>
+    <tr>
+  	<td> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chandrachur67&show_icons=true&locale=en&layout=compact" alt="Chandrachur67" height="195px" />
+    </td>
+  	<td>
+      <img src="https://leetcard.jacoblin.cool/Chandrachur?ext=contest" alt="LeetCode Stats" height="300px" />
+    </td>
+  </tr>
+  </table>
 
-<a href="http://www.github.com/vishnuthumpudi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuthumpudi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href=""><img src="https://leetcode.card.workers.dev/Thumpudi_Vishnu?theme=dark&font=baloo&extension=activity" /></a>
+</body>
+
+</html>
+
 
 <b>Top Repositories</b>
 
