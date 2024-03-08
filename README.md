@@ -10,9 +10,9 @@ Final Year Student in Bioinformatics with a strong knowledge in Java and Tech En
     <img width="800" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=800&lines=Hi+there%2C+I'm+Vishnu+Thumpudi+%F0%9F%91%8B;Let's+Connect!" />
   </div>
   <div style="text-align: center">
-    <p>Final Year Student in Bioinformatics with a strong knowledge in Java and Tech Enthusiast </p>
+    <p>A Final Year Student in Bioinformatics with a decent knowledge in Java and I'm a Tech Enthusiast </p>
   </div>
-  <p>I'm a passionate MERN Stack web developer, Web 3.0 enthusiast, and a chai ☕️ lover. I love collaborating with teams to create innovative and user-friendly web applications.</p>
+  <p>I'm a passionate developer and I have been coding since the beginning of my college. I have primarily focused on Web Development and have understanding of various technologies and understood how a tool works.I love collaborating with teams to create innovative and user-friendly web applications.</p>
 
   <h2>🌐 Connect with Me</h2>
 
