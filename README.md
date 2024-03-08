@@ -21,15 +21,17 @@ Final Year Student in Bioinformatics with a strong knowledge in Java and Tech En
   <br />
   <img src="https://komarev.com/ghpvc/?username=vishnuthumpudi" alt="GitHub Profile Views" />
 
+  * 🌍  I'm based in Andhra Pradesh, India
+  * ✉️  You can contact me at [vishnuthumpudi@gmail.com](mailto:vishnuthumpudi@gmail.com)
+  * 🚀  I'm currently working on [Finance-DashBoard : AI Stock Prediction](https://github.com/vishnuthumpudi/Finance-DashBoard-Using-MERN.git)
+  * 🧠  I'm learning advanced Software Engineer Practice,React.js practices, Networking, kafka use-cases, Web sockets, etc.
+  * 🤝  I'm open to collaborating on development projects.
+  * ⚡  I can build a full stack application in less than a day.
+
+
 </body>
 I have been coding since the beginning of my college. I have primarily focused on Web Development and have understanding of various technologies and understood how a tool works.
 
-* 🌍  I'm based in Andhra Pradesh, India
-* ✉️  You can contact me at [vishnuthumpudi@gmail.com](mailto:vishnuthumpudi@gmail.com)
-* 🚀  I'm currently working on [Finance-DashBoard : AI Stock Prediction](https://github.com/vishnuthumpudi/Finance-DashBoard-Using-MERN.git)
-* 🧠  I'm learning advanced Software Engineer Practice,React.js practices, Networking, kafka use-cases, Web sockets, etc.
-* 🤝  I'm open to collaborating on development projects.
-* ⚡  I can build a full stack application in less than a day.
 
 <a href="https://github.com/vishnuthumpudi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vishnuthumpudi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
