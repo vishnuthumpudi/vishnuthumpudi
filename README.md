@@ -9,6 +9,23 @@ Final Year Student in Bioinformatics with a strong knowledge in Java and Tech En
   <div style="text-align: center;">
     <img width="800" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=800&lines=Hi+there%2C+I'm+Vishnu+Thumpudi+%F0%9F%91%8B;Let's+Connect!" />
   </div>
+  <div style="text-align: center">
+    <p>Final Year Student in Bioinformatics with a strong knowledge in Java and Tech Enthusiast </p>
+  </div>
+  <p>I'm a passionate MERN Stack web developer, Web 3.0 enthusiast, and a chai ☕️ lover. I love collaborating with teams to create innovative and user-friendly web applications.</p>
+
+  <h2>🌐 Connect with Me</h2>
+
+  <a href="https://twitter.com/ChandrchurM">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/chandrachur-mukherjee-81a574174/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Chandrachur67" alt="GitHub Profile Views" />
+
 </body>
 I have been coding since the beginning of my college. I have primarily focused on Web Development and have understanding of various technologies and understood how a tool works.
 
