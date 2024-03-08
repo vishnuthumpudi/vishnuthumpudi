@@ -15,16 +15,11 @@ Final Year Student in Bioinformatics with a strong knowledge in Java and Tech En
   <p>I'm a passionate developer and I have been coding since the beginning of my college. I have primarily focused on Web Development and have understanding of various technologies and understood how a tool works.I love collaborating with teams to create innovative and user-friendly web applications.</p>
 
   <h2>🌐 Connect with Me</h2>
-
-  <a href="https://twitter.com/ChandrchurM">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/chandrachur-mukherjee-81a574174/">
+  <a href="https://www.linkedin.com/in/vishnuthumpudi/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <br />
-  <img src="https://komarev.com/ghpvc/?username=Chandrachur67" alt="GitHub Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vishnuthumpudi" alt="GitHub Profile Views" />
 
 </body>
 I have been coding since the beginning of my college. I have primarily focused on Web Development and have understanding of various technologies and understood how a tool works.
