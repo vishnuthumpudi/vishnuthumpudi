@@ -22,7 +22,7 @@ Final Year Student in Bioinformatics with a strong knowledge in Java and Tech En
 
   * 🌍  I'm based in Andhra Pradesh, India
   * ✉️  You can contact me at [vishnuthumpudi@gmail.com](mailto:vishnuthumpudi@gmail.com)
-  * 🚀  I'm currently working on [Finance-DashBoard : AI Stock Prediction](https://github.com/vishnuthumpudi/Finance-DashBoard-Using-MERN.git)
+  * 🚀  I'm currently working on [MultiChat-PDF-Chat-with-Multiple-PDFs](https://github.com/vishnuthumpudi/MultiChat-PDF--Chat-with-Multiple-PDFs-.git)
   * 🧠  I'm learning advanced Software Engineer Practice,React.js practices, Networking, kafka use-cases, Web sockets, etc.
   * 🤝  I'm open to collaborating on development projects.
   * ⚡  I can build a full stack application in less than a day.
